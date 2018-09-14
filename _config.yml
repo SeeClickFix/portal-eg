@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
-title: [SeeClickFix Portal Example]
-description: [Example of the embedded SeeClickFix Portal]
+title: SeeClickFix Portal Example
+description: Example of the embedded SeeClickFix Portal
 
-show_downloads: [false]
+show_downloads: false
